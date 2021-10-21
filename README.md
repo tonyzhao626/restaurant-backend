@@ -1,20 +1,4 @@
-# atlanta
+# Atlanta Restaurant
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+This is a backend for restaurant project.
+There is a frontend at [here](https://github.com/tonyzhao626/restaurant-frontend).
